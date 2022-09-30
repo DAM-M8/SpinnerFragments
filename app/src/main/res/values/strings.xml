@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">ExempleFragments</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Primer Fragment</string>
+    <string name="second_fragment_label">Segon Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Selecciona el dia que t\'agrada més de la setmana</string>
+    <string name="hello_second_fragment">El dia que més t\'agrada és. Arg: %1$s</string>
+
+
+    <string-array name="dies_setmana">
+        <item>Dilluns</item>
+        <item>Dimarts</item>
+        <item>Dimecres</item>
+        <item>Dijous</item>
+        <item>Divendres</item>
+        <item>Dissabte</item>
+        <item>Diumenge</item>
+    </string-array>
+
+</resources>
